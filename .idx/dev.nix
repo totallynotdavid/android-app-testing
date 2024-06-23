@@ -12,6 +12,8 @@
     pkgs.gnupg
     pkgs.nano
     pkgs.apt
+    pkgs.htop
+    pkgs.pinentry.curses
   ];
   # Sets environment variables in the workspace
   env = {};
